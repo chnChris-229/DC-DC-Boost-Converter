@@ -1,15 +1,9 @@
-# DC-DC-Boost-Converter
 # LM2577 DC-DC Boost Converter
 
 A custom DC-DC boost converter designed in KiCad using the LM2577-ADJ switching regulator.
 
 The circuit is designed to step a **9 V input** up to approximately **20 V output**. This project covers the full PCB design process, including schematic capture, component selection, PCB layout, routing, copper pours, design-rule checking, and Gerber/drill file generation.
 
-## Project Status
-
-**PCB design complete — fabrication and physical testing pending.**
-
-The schematic and PCB layout have been completed in KiCad, and the board passes design-rule checking with no unconnected nets.
 
 ## Features
 
