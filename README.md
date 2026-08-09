@@ -22,15 +22,11 @@ The circuit is designed to step a **9 V input** up to approximately **20 V outpu
 
 ## Schematic
 
-![Boost Converter Schematic](Images/schematic.png)
-
-## PCB Layout
-
-![PCB Layout](Images/pcb-layout.png)
+![Boost Converter Schematic](Images/DC-DC boost converter 2)
 
 ## 3D PCB View
 
-![PCB 3D View](Images/pcb-3d.png)
+![PCB 3D View](Images/DC-DC boost converter)
 
 ## Repository Structure
 
